@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 4ff21fea7a1a1a725f57
+  clientSecret: a1f4c0781d0950479674275247bcc9607f4ca33d
   repo: saturn18.github.io
   owner: saturn18
 
